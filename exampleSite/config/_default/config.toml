@@ -1,4 +1,4 @@
-baseURL = "https://drajad.netlify.com/"
+baseURL = "https://drajad.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
